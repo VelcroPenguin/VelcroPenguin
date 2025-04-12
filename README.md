@@ -25,7 +25,8 @@ As I transition from the classroom and nonprofit sector into curriculum product 
 - Developed videos, assessments, and scaffolding tools for 120+ students  
 - Increased student comprehension by 30% using blended and flipped learning methods  
 
-📎 *Artifacts included in `/STEM-Curriculum` folder*
+📎 *Artifacts included in [`/STEM-Curriculum`](./STEM-Curriculum) folder*
+
 
 ---
 
