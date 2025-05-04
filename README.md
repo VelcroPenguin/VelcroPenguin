@@ -86,6 +86,6 @@ As I transition from the classroom and nonprofit sector into curriculum product 
 
 If you're hiring for curriculum product roles, building learning experiences in AI/ML, or want to collaborate on edtech initiatives—I'd love to chat.
 
-**📧** jmd3946@gmail.com  
+**📧** jacob.duvall.m@gmail.com  
 **🔗** [LinkedIn](https://www.linkedin.com/)  
 **🌐** Carolina Beach, NC | Remote + Travel Ready  
